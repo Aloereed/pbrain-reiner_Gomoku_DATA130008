@@ -46,7 +46,6 @@ Note: the executables `pip.exe` and `pyinstaller.exe` might need full path.
 
 ## pbrain-mcts
 
-Zheng HU (18307130208), Xiaoyi ZHU(18307130047)
 
 #### A Python Piskvork with MCTS with UCT RAVE
 
